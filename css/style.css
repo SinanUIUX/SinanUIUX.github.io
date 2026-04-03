@@ -291,7 +291,7 @@ section#about {
     margin-top: 175px;
     background-image:
         linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-        url('/IMG/abstratact2.png');
+        url('/IMG/abstratact2.webp');
     background-size: cover;
     /* Makes sure it fills the whole screen */
     background-position: center;
@@ -344,7 +344,7 @@ section#about {
 }
 
 .bg-img {
-    background: url(/IMG/abstratact2.png);
+    background: url(/IMG/abstratact2.webp);
     height: 100vh;
 }
 
