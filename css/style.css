@@ -535,7 +535,7 @@ section#contact {
 .bg-blur7 {
     position: absolute;
     width: 502px;
-    height: 493px;
+    height: 4913px;
     background-image: radial-gradient(#ffb656, #00000000);
     z-index: 0;
     right: -25px;
@@ -981,7 +981,7 @@ section#works{
 .footer-branding {
     font-size: 24vw; /* Scales with screen width */
     font-weight: 900;
-    color: #df9e38; /* Your Figma orange/gold */
+    color: #ffab3e; /* Your Figma orange/gold */
     line-height: 0.8;
     margin: 0;
     text-transform: lowercase;
